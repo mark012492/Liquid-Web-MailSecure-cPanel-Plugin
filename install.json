@@ -1,0 +1,20 @@
+[
+    {
+       "order" : 11,
+       "name" : "Liquid Web Plugins",
+       "type" : "group",
+       "id" : "lw_plugins"
+    },
+    {
+       "icon" : "lwms.png",
+       "group_id" : "lw_plugins",
+       "order" : 1,
+       "name" : "MailSecure",
+       "type" : "link",
+       "id" : "plugin_one",
+       "uri" : "/frontend/paper_lantern/mailsecure/mailsecure.live.php",
+       "featuremanager" : 1,
+       "feature" : "MailSecure",
+       "description" : "Liquid Web plugin to enable and disable MailSecure"
+    }
+]
